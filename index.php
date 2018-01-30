@@ -299,20 +299,21 @@
    <br/>
   <h1 class="text-center heading" style="font-size:30px">Our Partners</h1><br/>
   We are grateful of our esteemed partners for their support.<br><br><br><br>
+
   <div class="row" >
-            <div class="col-xs-6 col-md-3 portfolio-item">
+            <div class="col-sm-4">
                 
                    <a href="https://www.facebook.com/HopeInUIndia/"><img src="images/img1.png" data-toggle="popover" data-trigger="hover"
                     data-content="HopeInU is India's first women-focused independent professional mentoring and active citizenship club that provides youth engagement." data-placement="bottom"></a>
                
             </div>
-            <div class="col-xs-6 col-md-3 portfolio-item">
+            <div class="col-sm-4">
                 
                     <a href="https://www.facebook.com/campusdiaries"><img src="images/img2.png" class="img-responsive" data-toggle="popover" data-trigger="hover"
                     data-content="Campus Diaries is a discovery platform for the world's most talented students. Showcase your work and find opportunities." data-placement="bottom"></a>
                 
             </div>
-            <div class="col-xs-6 col-md-3 portfolio-item">
+            <div class="col-sm-4">
                 
                     <a href="http://www.cisco.com/"><img class="img-responsive"src="images/img3.png" data-toggle="popover" data-trigger="hover"
                     data-content="Cisco helps companies seize the opportunities of tomorrow by proving that amazing things can happen when you connect the unconnected." data-placement="bottom"></a>
