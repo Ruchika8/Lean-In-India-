@@ -1,2 +1,2 @@
-# Lean-In-India-
+# Lean In India
 Initial Website for Lean In India
