@@ -318,12 +318,7 @@
                     data-content="Cisco helps companies seize the opportunities of tomorrow by proving that amazing things can happen when you connect the unconnected." data-placement="bottom"></a>
                 
             </div>
-            <div class="col-xs-6 col-md-3 portfolio-item">
-                
-                     <a href="https://www.facebook.com/spotlightoneveryone/"><img class="img-responsive"src="images/img4.jpg" data-toggle="popover" data-trigger="hover"
-                    data-content="SPOTLIGHT is an online magazine that brings into limelight the people who are doing wonders with their lives and gives them their share of fame ." data-placement="bottom"></a>
-               
-            </div>
+            
         </div>
 </div>
 </div>  
