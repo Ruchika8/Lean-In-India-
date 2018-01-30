@@ -59,7 +59,7 @@
       <div class="item active">
         <img src="images/1a.jpg" class="images">
         <div class="carousel-caption">
-          <strong>Sheryl Sandberg</strong>
+          <strong>Sheryl Sandberg: Lean In Founder</strong>
           <br>Let's Lean In!
         </div>
       </div>
