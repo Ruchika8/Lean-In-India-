@@ -255,7 +255,7 @@
       <br>
       <div class="row">
         <div class="col-md-12 form-group">
-          <input type="submit" class="btn pull-right" name="send" value="Send">
+          <input type="submit" class="btn pull-right" name="send" value="Send" disabled>
         </div> 
       </div>
     </div>
